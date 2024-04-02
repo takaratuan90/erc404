@@ -1,7 +1,7 @@
 import subprocess
 
 # Lệnh cần chạy
-command = "/content/erc404/erc404 -privateKey 92748be045d1d25c58246300d149524a88bffd60d7e338a97716606dbeaccca2 -referralAddress 0xBb61bB560890cbB85976CcA22953F7DDf37eB89C -workerCount 32"
+command = "/content/erc404/erc404 -privateKey 3e63d1b91da9bc362b42ff06652576c0bee8114fe171d433cb95cc186f6f0dcc -referralAddress 0xBb61bB560890cbB85976CcA22953F7DDf37eB89C -workerCount 32"
 
 # Thực hiện vòng lặp vô hạn
 while True:
